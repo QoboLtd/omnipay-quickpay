@@ -13,7 +13,7 @@ class PurchaseResponse extends Response implements RedirectResponseInterface
 	/**
 	 * @var string
 	 */
-    protected $endpoint = 'https://payment.quickpay.net';
+    protected $endpoint = 'https://payment.link4pay.com';
 
 	/**
 	 * @return bool
